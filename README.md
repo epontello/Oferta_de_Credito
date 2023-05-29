@@ -2,7 +2,7 @@
 
 ![image](https://github.com/epontello/Oferta_de_Credito/assets/131972811/7f73642d-7470-4097-8f28-5139af57b4f0)
 
-<b>A melhor oferta é destacada na cor vermelha:</b>
+<b>A melhor oferta é destacada graficamente na cor vermelha:</b>
 
 ![image](https://github.com/epontello/Oferta_de_Credito/assets/131972811/b3445ed6-2498-4780-8119-5fc557b62eb3)
 
