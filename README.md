@@ -28,6 +28,7 @@ Baixe o repositório, salve todo o conteudo na pasta htdocs\project_1 do xampp:
 Importe o banco de dados laravel.sql.
 
 <b>URL para execução do projeto local</b>
+
 http://localhost/project_1/public/cpfs
 
 <b>Urls no Postman</b>
