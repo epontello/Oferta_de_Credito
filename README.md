@@ -11,6 +11,7 @@ XAMPP Windows / 7.4.33
 
 https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.33/xampp-windows-x64-7.4.33-0-VC15-installer.exe/download
 
+
 <b>CPFs válidos</b>
 
 111.111.111-11
@@ -25,7 +26,7 @@ https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.33/xampp-window
 Baixe o repositório, salve todo o conteudo na pasta htdocs\project_1 do xampp:
 ![image](https://github.com/epontello/Oferta_de_Credito/assets/131972811/aa186a75-357e-4942-83c0-5081128bd900)
 
-Importe o banco de dados laravel.sql.
+Importe o banco de dados laravel.sql para o MySql que será instalado pelo próprio xampp.
 
 <b>URL para execução do projeto local</b>
 
